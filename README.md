@@ -1,3 +1,8 @@
+This is a forked repo for replicate CoOp method on the CN_CLIP model (The original method was performed on English CLIP model).
+This is a part of the course project of CSE599G1 at University of Washington.
+
+# --- Below are the original content ---
+
 # Prompt Learning for Vision-Language Models
 
 This repo contains the codebase of a series of research projects focused on adapting vision-language models like [CLIP](https://arxiv.org/abs/2103.00020) to downstream datasets via *prompt learning*:
